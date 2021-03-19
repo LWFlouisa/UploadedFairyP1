@@ -1,3 +1,5 @@
+## UPLOADED FAIRY
+
 Art Style: This is drawn on a four panel grid, using a mixture of Sumi Painting and Charcoal. Because of the grid, I'm not sure how 5 panel pages will translate. Visually, it blends the French graphic novel tradition of Bande Dessinnee ( specifically Western ) and Seinen Manga of a Horror Scifi bent.
 
 Plot: This is a Horror / Scifi Romance that crosses the time periods of the 1830s to 2129 A.D. In the 1800s, France recovers from the aftermath of the first French Revolution. However the main focus revolution is in the one of 1871. In the future, mankind blurs that distinction between Artificial Intelligence, Virtual Reality, and Humanity in a period of Modern Stasis.
@@ -6,7 +8,7 @@ Historical Context: Paris is recovering from the aftermath of the 1871 Revolutio
 
 Conlang: https://personaljournal.ca/hafestra-conlang/
 
-CHARACTERS
+## CHARACTERS
 
 HEMATO-TOMATO - Age 19-119 ( is age 26 when she goes dormant inside a cave filled with cybernetic wires, protected from the "colonial wars" between French and Japanese American territories. Would become the next state executioner, after her father who had inherited the title from the Guillotine Family of France after the return of the device. She doesn't want to become an executioner, but finds that her desires conflict with this soft nature. When she returns into the flesh in 2084 A.D., her faith in humanity is broken, and thereby completely breaking her sanity.
 
@@ -24,7 +26,7 @@ SLEPHNER - Age 13-29 - A beta tester presumed dead after the raid on The Barbers
 
 RASSIE - AGE 26 ( 27 when Beheaded in the game world. ) A dream-scanner who had rose in the ranks of the normal secret police, but had developed a mild crush on Nadine. Her affections were partly what made her choose to help Nadine try to fix the game, rather than letting her natural instincts similar to Hemato's take its natural course. She follows the orders of her brother Tanner, who is her Elite Handler. She wears a prosthetic Ai with machine learning abilities.
 
-OTHER CHARACTERS
+## OTHER CHARACTERS
 
 HEMATO'S FATHER - A state executioner for French America, who uses a razor arrow, that had evolved from the original guillotine. He had been instrumental in the instruments creation, that later went on to become a common self-defense device during the colonial wars. Hemato's father is also implied to being a clinical vampire like Hemato.
 
@@ -32,7 +34,7 @@ MARINE LA PEN - The presidential candidate of France, who later organized an inv
 
 VELLA, MR. CLOCKTIME - Vella is the progeny of Nadine and Mr. Clocktime that allowed for an unnatural bith between a trans woman and a cis man, that enabled Vella to have god like Time abilities. However her father, Mr. Clocktime, wants to pass down his abilities.
 
-GAME CHARACTERS
+## GAME CHARACTERS
 
 MILLIE - A half Spanish half French fairy princess, who in the original playthrough was allowed to be executed by the invading army of Dantino. Instead, when the apocalypse loomed do to causing a massive game world glitch, this gave Nadine a chance to replay the game. Dantino murdered her parents and her family's made, causing Elena, Aldiel, and Millie to flee persecution from the town across the foreboding mountains watched by the "eyes in the sky", giant floating eyes that collect data about gameplay choices.
 
@@ -62,7 +64,7 @@ RASSIE - Derived from Brittney
 TANNER - Coming soon
 MARINE LA PEN - https://www.politico.eu/article/marine-le-pen-sees-political-opening-after-teacher-beheading-in-france/ ( Just the visual appearance of La Pen.)
 
-PART ONE. HEMATO'S FALL
+## PART ONE. HEMATO'S FALL
 
 PAGE ONE
 
@@ -926,7 +928,7 @@ EHENA-MAERIE
 Hemato, I’m home.
 
 
-PART TWO
+## PART TWO
 
 PAGE FOURTY
 
